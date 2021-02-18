@@ -23,10 +23,10 @@
 ![Gitlogo](https://m.media-amazon.com/images/I/512A3HkBauL.jpg)
 
 **Table**
-Name|Branch|College|
-|-----|----|-----|
-|abc|CSE|VRSEC|
-|pqr|IT|VRSEC
+Name|Branch|College
+-----|----|-----
+abc|CSE|VRSEC
+pqr|IT|VRSEC
 
 **CODE**
 :weary:
